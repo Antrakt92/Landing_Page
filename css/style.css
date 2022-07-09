@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+body{
+   font-family: 'Roboto', sans-serif;
+   color: #D5D5D5;
+}
+.background {
+   background-image: url(image/BG_Image.png);
+   padding-left: 193px;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+.flex {
+   margin: auto;
+}
+.our-impact {
+   font-weight: 700;
+   padding: 116px 0 31.77px 16px;
+   text-transform: uppercase;
+   line-height: 24px;
+   font-size: 12px;
+   position: relative;
+   height: 16.37px;
+   display: flex;
+   align-items: center;
+   letter-spacing: 2.5px;
+
+}
+.overline-mark {
+   position: absolute;
+   left: -16px;
+   
+}
+h1 {
+   max-width: 411px;
+   height: 84px;
+   font-weight: 900;
+   margin-bottom: 79px;
+   font-size: 36px;
+}
+.box {
+   height: 76px;
+   width: 237px;
+   margin-right: 24px;
+   padding-bottom: 207px;
+   display: inline-block
+}
+.text {
+   margin: 4px 0 0 11px;
+   display: inline-block;
+   max-width: 130px;
+}
+.box-img {
+   display: flex;
+}
+.big {
+   font-weight: 900;
+   font-size: 36px;
+   color: #C40B0B;
+   line-height: 42px;
+   margin-bottom: 3px;
+   display: flex;
+   align-items: center;
+}
+.small {
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 24px;
+   display: flex;
+   align-items: center;
+}
+.img-car {
+   margin: 0 0 -240px 710px;
+}
